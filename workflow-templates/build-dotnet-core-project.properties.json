@@ -5,6 +5,6 @@
       "dotnetcore"
   ],
   "filePatterns": [
-      "Empyrean.*.Host\\appsettings.json$"
+      "*\\appsettings.json$"
   ]
 }
