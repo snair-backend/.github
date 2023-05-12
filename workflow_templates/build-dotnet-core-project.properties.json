@@ -1,0 +1,10 @@
+{
+  "name": "Build Dotnet Core Project",
+  "description": "Empyrean Dotnet Core Project Build workflow",
+  "categories": [
+      "dotnetcore"
+  ],
+  "filePatterns": [
+      "Empyrean.*.Host\\appsettings.json$"
+  ]
+}
