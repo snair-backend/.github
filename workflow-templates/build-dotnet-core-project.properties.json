@@ -3,8 +3,5 @@
   "description": "Empyrean Dotnet Core Project Build workflow",
   "categories": [
       "dotnetcore"
-  ],
-  "filePatterns": [
-      "*\\appsettings.json$"
   ]
 }
